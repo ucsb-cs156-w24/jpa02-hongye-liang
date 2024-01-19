@@ -3,7 +3,7 @@
 Repo:   https://github.com/ucsb-cs156-w24/jpa02-hongye-liang
 
 
-Deployed at:   https://jpa02-hongye_liang.dokku-4.cs.ucsb.edu
+Deployed at:   http://jpa02-hongye-liang.dokku-04.cs.ucsb.edu
 
 
 # About this repo
